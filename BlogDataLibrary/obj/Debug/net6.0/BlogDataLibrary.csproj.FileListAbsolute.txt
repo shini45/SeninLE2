@@ -1,0 +1,16 @@
+D:\Visual Studio\SeninLE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.deps.json
+D:\Visual Studio\SeninLE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.runtimeconfig.json
+D:\Visual Studio\SeninLE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.dll
+D:\Visual Studio\SeninLE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.pdb
+D:\Visual Studio\SeninLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.AssemblyReference.cache
+D:\Visual Studio\SeninLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\SeninLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfoInputs.cache
+D:\Visual Studio\SeninLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfo.cs
+D:\Visual Studio\SeninLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.CoreCompileInputs.cache
+D:\Visual Studio\SeninLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.sourcelink.json
+D:\Visual Studio\SeninLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.dll
+D:\Visual Studio\SeninLE2\BlogDataLibrary\obj\Debug\net6.0\refint\BlogDataLibrary.dll
+D:\Visual Studio\SeninLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.pdb
+D:\Visual Studio\SeninLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.genruntimeconfig.cache
+D:\Visual Studio\SeninLE2\BlogDataLibrary\obj\Debug\net6.0\ref\BlogDataLibrary.dll
+D:\Visual Studio\SeninLE2\BlogDataLibrary\obj\Debug\net6.0\BlogData.10F7DE6A.Up2Date

@@ -1,0 +1,10 @@
+D:\Visual Studio\SeninLE2\SeninBlogDB\bin\Debug\SeninBlogDB.dacpac
+D:\Visual Studio\SeninLE2\SeninBlogDB\bin\Debug\SeninBlogDB.dll
+D:\Visual Studio\SeninLE2\SeninBlogDB\bin\Debug\SeninBlogDB.pdb
+D:\Visual Studio\SeninLE2\SeninBlogDB\obj\Debug\SeninBlogDB.sqlproj.AssemblyReference.cache
+D:\Visual Studio\SeninLE2\SeninBlogDB\obj\Debug\Model.xml
+D:\Visual Studio\SeninLE2\SeninBlogDB\obj\Debug\refactor.xml
+D:\Visual Studio\SeninLE2\SeninBlogDB\obj\Debug\postdeploy.sql
+D:\Visual Studio\SeninLE2\SeninBlogDB\obj\Debug\predeploy.sql
+D:\Visual Studio\SeninLE2\SeninBlogDB\obj\Debug\SeninBlogDB.dll
+D:\Visual Studio\SeninLE2\SeninBlogDB\obj\Debug\SeninBlogDB.pdb

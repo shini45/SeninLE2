@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="BlogAPI/BlogAPI.csproj" Id="b699d4c3-6830-4df6-9079-6d7cbf6d3b51" />
+  <Project Path="BlogDataLibrary/BlogDataLibrary.csproj" />
+  <Project Path="BlogTestUI/BlogTestUI.csproj" />
+  <Project Path="SeninBlogDB/SeninBlogDB.sqlproj" Id="e18f45d6-e40f-4cdd-94e6-4e5570504907">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
