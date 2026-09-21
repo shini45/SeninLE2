@@ -1,24 +1,42 @@
-<div>
-    <h1>Welcome Back</h1>
-    <h3>Login Here</h3>
+<div class="auth-wrapper">
+  <div class="auth-card">
+    <div class="auth-header">
+      <h2>Welcome Back</h2>
+      <p>Enter your credentials to access your account</p>
+    </div>
+    
     <form name="form" (ngSubmit)="onSubmit()" #f="ngForm" novalidate>
-        <div>
-            <label for="username">Email</label>
-            <input 
-                required
-                type="text"
-                name="username"
-                [(ngModel)]="form.username"
-                #username="ngModel">
-
-            <label for="password">Password</label>
-            <input 
-                type="password"
-                name="password"
-                [(ngModel)]="form.password"
-                required
-                #password="ngModel">
+      <div class="form-group">
+        <label for="username">Email Address</label>
+        <div class="input-wrapper">
+          <input 
+            required 
+            type="text" 
+            name="username" 
+            [(ngModel)]="form.username" 
+            #username="ngModel"
+            placeholder="name@example.com">
         </div>
-        <button>Submit</button>
+      </div>
+      
+      <div class="form-group">
+        <label for="password">Password</label>
+        <div class="input-wrapper">
+          <input 
+            type="password" 
+            name="password" 
+            [(ngModel)]="form.password" 
+            required 
+            #password="ngModel"
+            placeholder="••••••••">
+        </div>
+      </div>
+      
+      <button class="auth-btn">Sign In</button>
     </form>
+    
+    <div class="auth-footer">
+      <p>Don't have an account? <a href="/register">Create an account here</a></p>
+    </div>
+  </div>
 </div>
